@@ -283,7 +283,7 @@
 			<textField>
 				<reportElement x="433" y="10" width="122" height="11" uuid="d5297023-ae3c-4720-83bf-d115521ddc9e"/>
 				<textElement>
-					<font size="6"/> 
+					<font size="6"/>
 				</textElement>
 				<textFieldExpression><![CDATA[$P{Geschäftsführer}]]></textFieldExpression>
 			</textField>
