@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demodb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/demodb.mv.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mawi.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/mawi.mv.db" afterDir="false" />
@@ -32,7 +31,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/root/IdeaProjects/demodatabase"
+    "last_opened_file_path": "/root/IdeaProjects/landingpage",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,6 +54,7 @@
       <workItem from="1648543160024" duration="60000" />
       <workItem from="1649945880820" duration="3000" />
       <workItem from="1651130705616" duration="37000" />
+      <workItem from="1652342462698" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="add ddclient.conf">
       <created>1643797327947</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652018235263</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2022 05 08">
+      <created>1652170706091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652170706091</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +105,7 @@
     <MESSAGE value="2022 03 13" />
     <MESSAGE value="2022 03 29" />
     <MESSAGE value="2022 05 06" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022 05 06" />
+    <MESSAGE value="2022 05 08" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022 05 08" />
   </component>
 </project>
