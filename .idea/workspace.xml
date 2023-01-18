@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2022 09 09" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="add snapshot GUI-ServerPanel">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +36,11 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/root/IdeaProjects/landingpage",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/root/NetBeansProjects/GUI-ServerPanel-Docker",
     "nodejs_package_manager_path": "npm"
   },
   "keyToStringList": {
@@ -177,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662739873385</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add snapshot GUI-ServerPanel">
+      <created>1673619326158</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673619326159</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +224,7 @@
     <MESSAGE value="2022 08 26" />
     <MESSAGE value="2022 09 06" />
     <MESSAGE value="2022 09 09" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022 09 09" />
+    <MESSAGE value="add snapshot GUI-ServerPanel" />
+    <option name="LAST_COMMIT_MESSAGE" value="add snapshot GUI-ServerPanel" />
   </component>
 </project>
