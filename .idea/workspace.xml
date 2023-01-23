@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="add snapshot GUI-ServerPanel">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="add screenshot from guiserverpanel" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +38,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/root/NetBeansProjects/GUI-ServerPanel-Docker",
+    "last_opened_file_path": "/root/NetBeansProjects/demodatabase",
     "nodejs_package_manager_path": "npm"
   },
   "keyToStringList": {
@@ -191,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673619326159</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add screenshot from guiserverpanel">
+      <created>1674032662461</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674032662461</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +230,7 @@
     <MESSAGE value="2022 09 06" />
     <MESSAGE value="2022 09 09" />
     <MESSAGE value="add snapshot GUI-ServerPanel" />
-    <option name="LAST_COMMIT_MESSAGE" value="add snapshot GUI-ServerPanel" />
+    <MESSAGE value="add screenshot from guiserverpanel" />
+    <option name="LAST_COMMIT_MESSAGE" value="add screenshot from guiserverpanel" />
   </component>
 </project>
