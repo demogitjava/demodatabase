@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="edit readme" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="update snapshot landingpage">
+      <change afterPath="$PROJECT_DIR$/bind9/254.255.160.217.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bind9/named.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bind9/named.conf.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bind9/named.conf.options" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675939009388</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="update snapshot landingpage">
+      <created>1675939902263</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675939902263</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +277,7 @@
     <MESSAGE value="add snapshot &#10;GUI-ServerPanel-0.0.1-SNAPSHOT.jar" />
     <MESSAGE value="update snapshot for landingpage" />
     <MESSAGE value="edit readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit readme" />
+    <MESSAGE value="update snapshot landingpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="update snapshot landingpage" />
   </component>
 </project>

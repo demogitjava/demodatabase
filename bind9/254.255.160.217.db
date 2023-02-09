@@ -1,0 +1,12 @@
+; BIND reverse data file for local loopback interface
+$ORIGIN 254.255.160.217.IN-ADDR.ARPA.
+@            IN  SOA   demogitjava.ddns.net. (
+                          2019071501 ; serial number
+                          2h         ; refresh
+                          15m        ; update retry
+                          2w         ; expiry
+                          3h         ; nx = nxdomain ttl
+                          )
+            IN      NS      demogitjava.ddns.net.
+            IN      A       217.160.255.254.
+            IN      CNAME   demogitjava.de

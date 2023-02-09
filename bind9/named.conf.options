@@ -1,0 +1,9 @@
+options {
+directory "/var/cache/bind";
+allow-query { any; };
+allow-recursion { localnets; };
+allow-query-cache { localnets; };
+allow-transfer{ none; };
+listen-on { any; };
+version none;
+};

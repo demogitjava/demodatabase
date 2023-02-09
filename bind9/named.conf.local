@@ -1,0 +1,4 @@
+zone "254.255.160.217.in-addr.arpa" in{
+    type master;
+    file "/etc/bind/254.255.160.217.db";
+   };
