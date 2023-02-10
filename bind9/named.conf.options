@@ -1,9 +1,15 @@
 options {
-directory "/var/cache/bind";
-allow-query { any; };
-allow-recursion { localnets; };
-allow-query-cache { localnets; };
-allow-transfer{ none; };
-listen-on { any; };
-version none;
+        directory "/var/cache/bind";
+        recursion yes;
+
+        allow-recursion { no; };
+        allow-query { 192.168.178.0/24; };
+        allow-query-cache { any; };
+
+        forwarders {
+                8.8.8.8;
+                8.8.4.4;
+        };
+        auth-nxdomain no;
+        dnssec-validation auto;
 };
