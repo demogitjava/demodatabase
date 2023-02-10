@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DataExportManager">
@@ -31,6 +31,9 @@
     <connection id="232f191e-2702-4e0d-ab03-22cc0e92a136">
       <console name="Connection" type="STANDARD" schema="" session="Main" />
     </connection>
+  </component>
+  <component name="DBNavigator.Project.DatabaseEditorStateManager">
+    <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
@@ -73,11 +76,11 @@
           <description value="shopdb" />
           <database-type value="GENERIC" />
           <config-type value="CUSTOM" />
-          <database-version value="9999.0" />
+          <database-version value="1.4" />
           <driver-source value="EXTERNAL" />
           <driver-library value="$PROJECT_DIR$/h2/bin/h2-1.4.199.jar" />
           <driver value="org.h2.Driver" />
-          <url value="jdbc:h2:tcp://localhost:9092/~/shopdb" />
+          <url value="jdbc:h2:~/demodb" />
           <type value="USER_PASSWORD" />
           <user value="admin" />
           <deprecated-pwd value="amo3OG12cHI1Mmsx" />
@@ -189,6 +192,7 @@
         <object-type name="FUNCTION" sorting-type="NAME" />
         <object-type name="PROCEDURE" sorting-type="NAME" />
         <object-type name="ARGUMENT" sorting-type="POSITION" />
+        <object-type name="TYPE ATTRIBUTE" sorting-type="POSITION" />
       </sorting>
       <default-editors>
         <object-type name="VIEW" editor-type="SELECTION" />
@@ -235,11 +239,11 @@
         <nulls-first value="true" />
         <max-sorting-columns value="4" />
       </sorting>
-      <tracking-columns>
-        <columnNames value="" />
+      <audit-columns>
+        <column-names value="" />
         <visible value="true" />
         <editable value="false" />
-      </tracking-columns>
+      </audit-columns>
     </dataset-grid-settings>
     <dataset-editor-settings>
       <text-editor-popup>
@@ -279,6 +283,7 @@
           <content-type name="JSON" enabled="true" />
           <content-type name="JSON5" enabled="true" />
           <content-type name="Groovy" enabled="true" />
+          <content-type name="AIDL" enabled="true" />
           <content-type name="YAML" enabled="true" />
           <content-type name="Manifest" enabled="true" />
         </content-types>
