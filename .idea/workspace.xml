@@ -344,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676028095976</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jar">
+      <created>1676189040022</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1676189040022</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,6 +394,7 @@
     <MESSAGE value="add config files for bind9 dns server" />
     <MESSAGE value="edit named.conf.options&#10;add forwarders wiht google" />
     <MESSAGE value="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jars" />
-    <option name="LAST_COMMIT_MESSAGE" value="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jars" />
+    <MESSAGE value="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jar" />
   </component>
 </project>
