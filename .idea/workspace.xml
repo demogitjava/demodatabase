@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jar">
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="edit demodb.mv.db&#10;add table dns for reverse and forward entry">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -351,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676189040022</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="edit demodb.mv.db&#10;add table dns for reverse and forward entry">
+      <created>1676261779070</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1676261779070</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,6 +402,7 @@
     <MESSAGE value="edit named.conf.options&#10;add forwarders wiht google" />
     <MESSAGE value="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jars" />
     <MESSAGE value="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jar" />
-    <option name="LAST_COMMIT_MESSAGE" value="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jar" />
+    <MESSAGE value="edit demodb.mv.db&#10;add table dns for reverse and forward entry" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit demodb.mv.db&#10;add table dns for reverse and forward entry" />
   </component>
 </project>
