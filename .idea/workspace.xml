@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="delte useragent.csv">
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="update dockerdnsserver-0.0.1-SNAPSHOT.jar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockerdnsserver-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dockerdnsserver-0.0.1-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -400,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676994692990</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="update dockerdnsserver-0.0.1-SNAPSHOT.jar">
+      <created>1677060061996</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1677060061996</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,7 +430,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2022 03 29" />
     <MESSAGE value="2022 05 06" />
     <MESSAGE value="2022 05 08" />
     <MESSAGE value="2022 08 10" />
@@ -447,6 +454,7 @@
     <MESSAGE value="truncate table useragent and dns" />
     <MESSAGE value="update snapshot&#10;dockerdnsserver-0.0.1-SNAPSHOT.jar" />
     <MESSAGE value="delte useragent.csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="delte useragent.csv" />
+    <MESSAGE value="update dockerdnsserver-0.0.1-SNAPSHOT.jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="update dockerdnsserver-0.0.1-SNAPSHOT.jar" />
   </component>
 </project>
