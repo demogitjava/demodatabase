@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="update demodb.mv.db&#10;add 2 entrys in table dns &#10;for excample" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="update snapshot &#10;dockerdnsserver-0.0.1-SNAPSHOT.jar">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -419,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678195193591</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="update snapshot &#10;dockerdnsserver-0.0.1-SNAPSHOT.jar">
+      <created>1678271592645</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1678271592645</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +450,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2022 05 08" />
     <MESSAGE value="2022 08 10" />
     <MESSAGE value="2022 08 23" />
     <MESSAGE value="2022 08 24" />
@@ -466,6 +474,7 @@
     <MESSAGE value="delte useragent.csv" />
     <MESSAGE value="update dockerdnsserver-0.0.1-SNAPSHOT.jar" />
     <MESSAGE value="update demodb.mv.db&#10;add 2 entrys in table dns &#10;for excample" />
-    <option name="LAST_COMMIT_MESSAGE" value="update demodb.mv.db&#10;add 2 entrys in table dns &#10;for excample" />
+    <MESSAGE value="update snapshot &#10;dockerdnsserver-0.0.1-SNAPSHOT.jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="update snapshot &#10;dockerdnsserver-0.0.1-SNAPSHOT.jar" />
   </component>
 </project>
