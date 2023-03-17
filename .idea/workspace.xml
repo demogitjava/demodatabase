@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="add backup db h2 for landingapge&#10;2023-03-17">
+      <change afterPath="$PROJECT_DIR$/db_landingpage/demodb.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_landingpage/mawi.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_landingpage/shopdb.mv.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +44,7 @@
     "TODO_SCOPE": "All Places",
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/root/IdeaProjects/demodatabase/backup_landingpage",
+    "last_opened_file_path": "/root/IdeaProjects/demodatabase",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -161,6 +164,7 @@
       <workItem from="1666416944929" duration="27000" />
       <workItem from="1678981153175" duration="4000" />
       <workItem from="1679033229935" duration="719000" />
+      <workItem from="1679044284155" duration="2634000" />
     </task>
     <task id="LOCAL-00001" summary="add ddclient.conf">
       <created>1643797327947</created>
