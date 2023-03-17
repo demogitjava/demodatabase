@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="update snapshot &#10;dockerdnsserver-0.0.1-SNAPSHOT.jar" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="add backup db h2 for landingapge&#10;2023-03-17">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +41,11 @@
     "TODO_SCOPE": "All Places",
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/root/NetBeansProjects/dockerdnsserver",
+    "last_opened_file_path": "/root/IdeaProjects/demodatabase/backup_landingpage",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
     "vue.rearranger.settings.migration": "true"
@@ -52,6 +58,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backup_landingpage" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -153,6 +160,7 @@
       <workItem from="1652811442915" duration="38000" />
       <workItem from="1666416944929" duration="27000" />
       <workItem from="1678981153175" duration="4000" />
+      <workItem from="1679033229935" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="add ddclient.conf">
       <created>1643797327947</created>
@@ -434,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678805960054</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="add backup db h2 for landingapge&#10;2023-03-17">
+      <created>1679033303721</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1679033303722</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +471,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2022 08 10" />
     <MESSAGE value="2022 08 23" />
     <MESSAGE value="2022 08 24" />
     <MESSAGE value="2022 08 26" />
@@ -481,6 +495,7 @@
     <MESSAGE value="update dockerdnsserver-0.0.1-SNAPSHOT.jar" />
     <MESSAGE value="update demodb.mv.db&#10;add 2 entrys in table dns &#10;for excample" />
     <MESSAGE value="update snapshot &#10;dockerdnsserver-0.0.1-SNAPSHOT.jar" />
-    <option name="LAST_COMMIT_MESSAGE" value="update snapshot &#10;dockerdnsserver-0.0.1-SNAPSHOT.jar" />
+    <MESSAGE value="add backup db h2 for landingapge&#10;2023-03-17" />
+    <option name="LAST_COMMIT_MESSAGE" value="add backup db h2 for landingapge&#10;2023-03-17" />
   </component>
 </project>
