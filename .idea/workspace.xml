@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023-03-24 backup landingpage">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_landingpage/demodb.lock.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_landingpage/demodb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/demodb.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_landingpage/mawi.lock.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_landingpage/mawi.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/mawi.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_landingpage/shopdb.lock.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_landingpage/shopdb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/shopdb.mv.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +179,7 @@
       <workItem from="1679467299600" duration="19000" />
       <workItem from="1679476247209" duration="21000" />
       <workItem from="1679671768088" duration="1134000" />
-      <workItem from="1679674534451" duration="718000" />
+      <workItem from="1679674534451" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="add ddclient.conf">
       <created>1643797327947</created>
@@ -510,7 +503,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679671818578</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="2023-03-24 backup landingpage">
+      <created>1679676010701</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1679676010701</updated>
+    </task>
+    <task id="LOCAL-00048" summary="2023-03-24 backup landingpage">
+      <created>1679676221326</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1679676221326</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
