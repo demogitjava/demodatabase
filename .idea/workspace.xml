@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023-03-24 backup landingpage">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 04 01 backup landingpage h2 database" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +46,7 @@
     "TODO_SCOPE": "All Places",
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/root/IdeaProjects/demodatabase",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -180,6 +179,7 @@
       <workItem from="1679476247209" duration="21000" />
       <workItem from="1679671768088" duration="1134000" />
       <workItem from="1679674534451" duration="1540000" />
+      <workItem from="1680366197803" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="add ddclient.conf">
       <created>1643797327947</created>
@@ -517,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679676221326</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="2023 04 01 backup landingpage h2 database">
+      <created>1680366224423</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1680366224423</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +546,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2022 09 09" />
     <MESSAGE value="add snapshot GUI-ServerPanel" />
     <MESSAGE value="add screenshot from guiserverpanel" />
     <MESSAGE value="add new GUI-ServerPanel-0.0.1-SNAPSHOT.jar" />
@@ -564,6 +570,7 @@
     <MESSAGE value="2023-03-21&#10;backup demodb" />
     <MESSAGE value="2023-03-22&#10;backup demodb" />
     <MESSAGE value="2023-03-24 backup landingpage" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023-03-24 backup landingpage" />
+    <MESSAGE value="2023 04 01 backup landingpage h2 database" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 04 01 backup landingpage h2 database" />
   </component>
 </project>
