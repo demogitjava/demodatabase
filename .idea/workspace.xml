@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="add Screenshot for webshop" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 04 03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,13 +181,7 @@
       <workItem from="1679674534451" duration="1540000" />
       <workItem from="1680366197803" duration="37000" />
       <workItem from="1680433807838" duration="128000" />
-    </task>
-    <task id="LOCAL-00002" summary="2022 03 13">
-      <created>1647179784013</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1647179784013</updated>
+      <workItem from="1680505441274" duration="82000" />
     </task>
     <task id="LOCAL-00003" summary="2022 03 29">
       <created>1648543197914</created>
@@ -525,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680433923991</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="2023 04 03">
+      <created>1680505511070</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1680505511070</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +548,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add screenshot from guiserverpanel" />
     <MESSAGE value="add new GUI-ServerPanel-0.0.1-SNAPSHOT.jar" />
     <MESSAGE value="add snapshot &#10;GUI-ServerPanel-0.0.1-SNAPSHOT.jar" />
     <MESSAGE value="update snapshot for landingpage" />
@@ -572,6 +572,7 @@
     <MESSAGE value="2023-03-24 backup landingpage" />
     <MESSAGE value="2023 04 01 backup landingpage h2 database" />
     <MESSAGE value="add Screenshot for webshop" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Screenshot for webshop" />
+    <MESSAGE value="2023 04 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 04 03" />
   </component>
 </project>
