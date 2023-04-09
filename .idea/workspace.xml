@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 04 09&#10;update landingpage h2 db">
-      <change afterPath="$PROJECT_DIR$/db_landingpage/demodb.lock.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_landingpage/mawi.lock.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db_landingpage/shopdb.lock.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,13 +190,7 @@
       <workItem from="1681020645143" duration="86000" />
       <workItem from="1681022384448" duration="129000" />
       <workItem from="1681022840576" duration="136000" />
-    </task>
-    <task id="LOCAL-00008" summary="2022 08 10">
-      <created>1660169814941</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1660169814942</updated>
+      <workItem from="1681025009739" duration="365000" />
     </task>
     <task id="LOCAL-00009" summary="2022 08 23">
       <created>1661251650280</created>
@@ -536,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681022959459</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="2023 04 09&#10;update landingpage h2 db">
+      <created>1681025029178</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1681025029178</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
