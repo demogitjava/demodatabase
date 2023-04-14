@@ -1,0 +1,11 @@
+auto ens192
+iface ens192 inet static
+    address 217.160.255.254
+    netmask 255.255.255.240
+    gateway 10.255.255.1
+    dns-nameservers 8.8.8.8 8.8.4.4 
+    dns-search demogitjava springboot java landingapge webshop
+
+
+
+
