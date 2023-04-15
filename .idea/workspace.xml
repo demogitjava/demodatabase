@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 04 15 update landingapge h2 db">
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="edit networks config file for landingpage in docker container to 192.168.178.4">
+      <change afterPath="$PROJECT_DIR$/db_webshop/networks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_landingpage/networkconf/networks" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/networkconf/networks" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,14 +201,8 @@
       <workItem from="1681459461525" duration="92000" />
       <workItem from="1681463797330" duration="508000" />
       <workItem from="1681544250410" duration="68000" />
-      <workItem from="1681544353047" duration="31000" />
-    </task>
-    <task id="LOCAL-00016" summary="2022 09 09">
-      <created>1662739873385</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1662739873385</updated>
+      <workItem from="1681544353047" duration="77000" />
+      <workItem from="1681558037911" duration="61000" />
     </task>
     <task id="LOCAL-00017" summary="add snapshot GUI-ServerPanel">
       <created>1673619326158</created>
@@ -546,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681544288736</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="edit networks config file for landingpage in docker container to 192.168.178.4">
+      <created>1681544423155</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1681544423155</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +569,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jars" />
     <MESSAGE value="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jar" />
     <MESSAGE value="edit demodb.mv.db&#10;add table dns for reverse and forward entry" />
     <MESSAGE value="edit demodb.mv.db&#10;add dnstype to DNS Table" />
@@ -593,7 +593,8 @@
     <MESSAGE value="2023 04 14" />
     <MESSAGE value="add network config for container path /etc" />
     <MESSAGE value="2023 04 15 update landingapge h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 04 15 update landingapge h2 db" />
+    <MESSAGE value="edit networks config file for landingpage in docker container to 192.168.178.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit networks config file for landingpage in docker container to 192.168.178.4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
