@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="edit networks config file for landingpage in docker container to 192.168.178.4">
-      <change afterPath="$PROJECT_DIR$/db_webshop/networks" afterDir="false" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="add &quot;networks&quot; file to webshop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,14 +201,7 @@
       <workItem from="1681463797330" duration="508000" />
       <workItem from="1681544250410" duration="68000" />
       <workItem from="1681544353047" duration="77000" />
-      <workItem from="1681558037911" duration="61000" />
-    </task>
-    <task id="LOCAL-00017" summary="add snapshot GUI-ServerPanel">
-      <created>1673619326158</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1673619326159</updated>
+      <workItem from="1681558037911" duration="810000" />
     </task>
     <task id="LOCAL-00018" summary="add screenshot from guiserverpanel">
       <created>1674032662461</created>
@@ -547,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681544423155</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="add &quot;networks&quot; file to webshop">
+      <created>1681558171478</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1681558171478</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +568,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jar" />
     <MESSAGE value="edit demodb.mv.db&#10;add table dns for reverse and forward entry" />
     <MESSAGE value="edit demodb.mv.db&#10;add dnstype to DNS Table" />
     <MESSAGE value="truncate table useragent and dns" />
@@ -594,7 +592,8 @@
     <MESSAGE value="add network config for container path /etc" />
     <MESSAGE value="2023 04 15 update landingapge h2 db" />
     <MESSAGE value="edit networks config file for landingpage in docker container to 192.168.178.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit networks config file for landingpage in docker container to 192.168.178.4" />
+    <MESSAGE value="add &quot;networks&quot; file to webshop" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;networks&quot; file to webshop" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
