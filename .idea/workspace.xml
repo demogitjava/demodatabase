@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 04 16 update landingpage h2 db" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 04 17 update landingpage h2 db">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_landingpage/networkconf/networks" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/networkconf/networks" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,13 +205,8 @@
       <workItem from="1681558037911" duration="810000" />
       <workItem from="1681622927451" duration="65000" />
       <workItem from="1681663249891" duration="38000" />
-    </task>
-    <task id="LOCAL-00020" summary="add snapshot &#10;GUI-ServerPanel-0.0.1-SNAPSHOT.jar">
-      <created>1674642948689</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1674642948689</updated>
+      <workItem from="1681713642921" duration="27000" />
+      <workItem from="1681716258130" duration="47000" />
     </task>
     <task id="LOCAL-00021" summary="update snapshot for landingpage">
       <created>1675938572396</created>
@@ -546,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681663276761</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="2023 04 17 update landingpage h2 db">
+      <created>1681713659278</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1681713659278</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +573,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="edit demodb.mv.db&#10;add dnstype to DNS Table" />
     <MESSAGE value="truncate table useragent and dns" />
     <MESSAGE value="update snapshot&#10;dockerdnsserver-0.0.1-SNAPSHOT.jar" />
     <MESSAGE value="delte useragent.csv" />
@@ -593,7 +597,8 @@
     <MESSAGE value="edit networks config file for landingpage in docker container to 192.168.178.4" />
     <MESSAGE value="add &quot;networks&quot; file to webshop" />
     <MESSAGE value="2023 04 16 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 04 16 update landingpage h2 db" />
+    <MESSAGE value="2023 04 17 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 04 17 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
