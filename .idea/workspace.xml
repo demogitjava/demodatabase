@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 04 17 update landingpage h2 db">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_landingpage/networkconf/networks" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/networkconf/networks" afterDir="false" />
-    </list>
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="edit file networks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,14 +203,7 @@
       <workItem from="1681622927451" duration="65000" />
       <workItem from="1681663249891" duration="38000" />
       <workItem from="1681713642921" duration="27000" />
-      <workItem from="1681716258130" duration="47000" />
-    </task>
-    <task id="LOCAL-00021" summary="update snapshot for landingpage">
-      <created>1675938572396</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1675938572396</updated>
+      <workItem from="1681716258130" duration="84000" />
     </task>
     <task id="LOCAL-00022" summary="edit readme">
       <created>1675939009388</created>
@@ -551,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681713659278</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="edit file networks">
+      <created>1681716333351</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1681716333352</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,7 +570,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="truncate table useragent and dns" />
     <MESSAGE value="update snapshot&#10;dockerdnsserver-0.0.1-SNAPSHOT.jar" />
     <MESSAGE value="delte useragent.csv" />
     <MESSAGE value="update dockerdnsserver-0.0.1-SNAPSHOT.jar" />
@@ -598,7 +594,8 @@
     <MESSAGE value="add &quot;networks&quot; file to webshop" />
     <MESSAGE value="2023 04 16 update landingpage h2 db" />
     <MESSAGE value="2023 04 17 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 04 17 update landingpage h2 db" />
+    <MESSAGE value="edit file networks" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit file networks" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
