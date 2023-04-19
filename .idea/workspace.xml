@@ -211,13 +211,7 @@
       <workItem from="1681802851138" duration="86000" />
       <workItem from="1681803974430" duration="50000" />
       <workItem from="1681804588662" duration="156000" />
-    </task>
-    <task id="LOCAL-00027" summary="add snapshot &#10;dockerdnsserver-1.0-SNAPSHOT.jar">
-      <created>1676189040022</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1676189040022</updated>
+      <workItem from="1681811076699" duration="35000" />
     </task>
     <task id="LOCAL-00028" summary="edit demodb.mv.db&#10;add table dns for reverse and forward entry">
       <created>1676261779070</created>
@@ -555,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681804735011</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="2023 04 18 update landingapge h2 db">
+      <created>1681811098920</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1681811098920</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
