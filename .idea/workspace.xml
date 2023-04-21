@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="edit snapshot landingpage" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="snapshopt landingpage">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,34 +223,10 @@
       <workItem from="1681886937366" duration="53000" />
       <workItem from="1681961172378" duration="1526000" />
       <workItem from="1681965395976" duration="195000" />
-    </task>
-    <task id="LOCAL-00031" summary="update snapshot&#10;dockerdnsserver-0.0.1-SNAPSHOT.jar">
-      <created>1676560864003</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1676560864004</updated>
-    </task>
-    <task id="LOCAL-00032" summary="update snapshot&#10;dockerdnsserver-0.0.1-SNAPSHOT.jar">
-      <created>1676618160082</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1676618160082</updated>
-    </task>
-    <task id="LOCAL-00033" summary="update snapshot&#10;dockerdnsserver-0.0.1-SNAPSHOT.jar">
-      <created>1676994513657</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1676994513657</updated>
-    </task>
-    <task id="LOCAL-00034" summary="delte useragent.csv">
-      <created>1676994692990</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1676994692990</updated>
+      <workItem from="1681965592588" duration="242000" />
+      <workItem from="1681965837234" duration="606000" />
+      <workItem from="1681974714547" duration="388000" />
+      <workItem from="1681975104268" duration="12000" />
     </task>
     <task id="LOCAL-00035" summary="update dockerdnsserver-0.0.1-SNAPSHOT.jar">
       <created>1677060061996</created>
@@ -565,7 +543,35 @@
       <option name="project" value="LOCAL" />
       <updated>1681965421546</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="delete old landingape snapshot">
+      <created>1681965633783</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1681965633783</updated>
+    </task>
+    <task id="LOCAL-00081" summary="add landinpage shnapshot form &#10;2023 02 09">
+      <created>1681965700773</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1681965700773</updated>
+    </task>
+    <task id="LOCAL-00082" summary="add landingpage snapshot">
+      <created>1681974766579</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1681974766579</updated>
+    </task>
+    <task id="LOCAL-00083" summary="snapshopt landingpage">
+      <created>1681974979893</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1681974979893</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,10 +593,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023-03-22&#10;backup demodb" />
-    <MESSAGE value="2023-03-24 backup landingpage" />
-    <MESSAGE value="2023 04 01 backup landingpage h2 database" />
-    <MESSAGE value="add Screenshot for webshop" />
     <MESSAGE value="2023 04 03" />
     <MESSAGE value="add Ebay lib" />
     <MESSAGE value="edit demodb.mv.db&#10;add table shipping with prices &#10;for dhl in germany / zone 1" />
@@ -612,7 +614,11 @@
     <MESSAGE value="2023 04 19 update landingapge h2 db" />
     <MESSAGE value="2023 04 20 update landingapge h2 db" />
     <MESSAGE value="edit snapshot landingpage" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit snapshot landingpage" />
+    <MESSAGE value="delete old landingape snapshot" />
+    <MESSAGE value="add landinpage shnapshot form &#10;2023 02 09" />
+    <MESSAGE value="add landingpage snapshot" />
+    <MESSAGE value="snapshopt landingpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="snapshopt landingpage" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
