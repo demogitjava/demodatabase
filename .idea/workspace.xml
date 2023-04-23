@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 04 21 update landingpage h2 db" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 04 22 update landingpage h2 db" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -226,13 +226,7 @@
       <workItem from="1681974714547" duration="388000" />
       <workItem from="1681975104268" duration="12000" />
       <workItem from="1682059967474" duration="69000" />
-    </task>
-    <task id="LOCAL-00036" summary="update dockerdnsserver-0.0.1-SNAPSHOT.jar">
-      <created>1677171793944</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1677171793944</updated>
+      <workItem from="1682136922934" duration="100000" />
     </task>
     <task id="LOCAL-00037" summary="update demodb.mv.db&#10;add 2 entrys in table dns &#10;for excample">
       <created>1678195193591</created>
@@ -570,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682060020123</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="2023 04 22 update landingpage h2 db">
+      <created>1682137006152</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1682137006153</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +593,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add Ebay lib" />
     <MESSAGE value="edit demodb.mv.db&#10;add table shipping with prices &#10;for dhl in germany / zone 1" />
     <MESSAGE value="2023 04 09&#10;update landingpage h2 db" />
     <MESSAGE value="2023 04 11&#10;update landingpage h2 db" />
@@ -617,7 +617,8 @@
     <MESSAGE value="add landingpage snapshot" />
     <MESSAGE value="snapshopt landingpage" />
     <MESSAGE value="2023 04 21 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 04 21 update landingpage h2 db" />
+    <MESSAGE value="2023 04 22 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 04 22 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
