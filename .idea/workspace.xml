@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 04 23 update landingpage h2 db" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="create ddl files from h2 db" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -228,13 +228,7 @@
       <workItem from="1682059967474" duration="69000" />
       <workItem from="1682136922934" duration="100000" />
       <workItem from="1682228696438" duration="50000" />
-    </task>
-    <task id="LOCAL-00038" summary="update snapshot &#10;dockerdnsserver-0.0.1-SNAPSHOT.jar">
-      <created>1678271592645</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1678271592645</updated>
+      <workItem from="1682237425826" duration="50000" />
     </task>
     <task id="LOCAL-00039" summary="update snapshot &#10;dockerdnsserver-0.0.1-SNAPSHOT.jar">
       <created>1678292745572</created>
@@ -572,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682228734159</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="create ddl files from h2 db">
+      <created>1682237461343</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1682237461344</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +595,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 04 09&#10;update landingpage h2 db" />
     <MESSAGE value="2023 04 11&#10;update landingpage h2 db" />
     <MESSAGE value="2023 04 14" />
     <MESSAGE value="add network config for container path /etc" />
@@ -619,7 +619,8 @@
     <MESSAGE value="2023 04 21 update landingpage h2 db" />
     <MESSAGE value="2023 04 22 update landingpage h2 db" />
     <MESSAGE value="2023 04 23 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 04 23 update landingpage h2 db" />
+    <MESSAGE value="create ddl files from h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="create ddl files from h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
