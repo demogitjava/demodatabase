@@ -1,4 +1,0 @@
-2023-04-19 18:13:36 jdbc[173]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USERAGENT" not found; SQL statement:
-SELECT * FROM USERAGENT
-WHERE MONTH(datum) = 4  and YEAR(datum) = 2023 [42102-199]
