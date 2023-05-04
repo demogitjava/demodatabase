@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 05 02 update landingpage h2 db" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 05 04 update landingpage h2 db" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +53,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/root/IdeaProjects/demodatabase",
+    "last_opened_file_path": "/root/IdeaProjects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -237,20 +237,8 @@
       <workItem from="1682918293103" duration="293000" />
       <workItem from="1682918588336" duration="69000" />
       <workItem from="1683015501242" duration="50000" />
-    </task>
-    <task id="LOCAL-00045" summary="2023-03-22&#10;backup demodb">
-      <created>1679476252898</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1679476252898</updated>
-    </task>
-    <task id="LOCAL-00046" summary="2023-03-24 backup landingpage">
-      <created>1679671818578</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1679671818578</updated>
+      <workItem from="1683107530821" duration="93000" />
+      <workItem from="1683174657217" duration="142000" />
     </task>
     <task id="LOCAL-00047" summary="2023-03-24 backup landingpage">
       <created>1679676010701</created>
@@ -581,7 +569,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683015536240</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="2023 05 03 update landingpage h2 db">
+      <created>1683107608516</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1683107608516</updated>
+    </task>
+    <task id="LOCAL-00095" summary="2023 05 04 update landingpage h2 db">
+      <created>1683174689071</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1683174689071</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,8 +605,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="edit networks config file for landingpage in docker container to 192.168.178.4" />
-    <MESSAGE value="add &quot;networks&quot; file to webshop" />
     <MESSAGE value="2023 04 16 update landingpage h2 db" />
     <MESSAGE value="2023 04 17 update landingpage h2 db" />
     <MESSAGE value="edit file networks" />
@@ -628,7 +628,9 @@
     <MESSAGE value="2023 04 27 update landingpage h2 db" />
     <MESSAGE value="2023 05 01 update landingpage h2 db" />
     <MESSAGE value="2023 05 02 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 05 02 update landingpage h2 db" />
+    <MESSAGE value="2023 05 03 update landingpage h2 db" />
+    <MESSAGE value="2023 05 04 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 05 04 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
