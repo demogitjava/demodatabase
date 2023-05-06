@@ -1,6 +1,7 @@
 create table USERDETAIL
 (
-    "id"           INT not null,
+    ID       INT          not null
+        primary key,
     USERNAME       VARCHAR(255),
     PASSWORD       VARCHAR(255),
     ROLE           VARCHAR(255),
@@ -15,8 +16,7 @@ create table USERDETAIL
     BANKVERBINDUNG VARCHAR(255),
     POSITION       VARCHAR(255),
     JOINID         INT,
-    IMAGE          BINARY,
-    constraint USERDETAILS_PK
-        primary key ("id")
+    IMAGE          BINARY
+  
 );
 
