@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 05 06 update landingpage h2 db" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="edit sql file&#10;&#10;SHIPPING.sql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,13 +242,7 @@
       <workItem from="1683174801292" duration="60000" />
       <workItem from="1683267408189" duration="78000" />
       <workItem from="1683350282801" duration="41000" />
-    </task>
-    <task id="LOCAL-00050" summary="add Screenshot for webshop">
-      <created>1680433923990</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1680433923991</updated>
+      <workItem from="1683355216003" duration="90000" />
     </task>
     <task id="LOCAL-00051" summary="2023 04 03">
       <created>1680505511070</created>
@@ -586,7 +580,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683350309559</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="edit sql file&#10;&#10;SHIPPING.sql">
+      <created>1683355293606</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1683355293606</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +609,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="edit file networks" />
     <MESSAGE value="2023 04 18 update landingpage h2 db" />
     <MESSAGE value="edit file networks to ip 192.168.178.6" />
     <MESSAGE value="edit user&#10;demodb mawidb and shopdb &#10;&#10;user h2dbcluster add admin rights" />
@@ -633,7 +633,8 @@
     <MESSAGE value="2023 05 04 update landingpage h2 db" />
     <MESSAGE value="2023 05 05 update landingpage h2 db" />
     <MESSAGE value="2023 05 06 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 05 06 update landingpage h2 db" />
+    <MESSAGE value="edit sql file&#10;&#10;SHIPPING.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit sql file&#10;&#10;SHIPPING.sql" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

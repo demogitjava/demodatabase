@@ -1,6 +1,6 @@
 create table USERAGENT
 (
-    ID               LONG not null
+    ID               INT not null
         primary key,
     IPADDRESS        VARCHAR(255),
     STBROWSER        VARCHAR(255),
