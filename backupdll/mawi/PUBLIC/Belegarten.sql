@@ -1,9 +1,9 @@
-create table "Belegarten"
+create table BELEGART
 (
-    ID                INT not null,
-    "Belegart"        VARCHAR(255),
-    BELEGNUMMERNKREIS LONG,
-    constraint BELEGARTEN_PK
-        primary key (ID)
+   ID                 INT          not null
+        primary key,
+    BELEGART        VARCHAR(255),
+    BELEGNUMMERNKREIS LONG
+    
 );
 
