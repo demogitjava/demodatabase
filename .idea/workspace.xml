@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="edit USERDETAIL.sql" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="edit Belegarten.sql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,13 +245,7 @@
       <workItem from="1683355216003" duration="90000" />
       <workItem from="1683355437721" duration="43000" />
       <workItem from="1683355738883" duration="32000" />
-    </task>
-    <task id="LOCAL-00053" summary="edit demodb.mv.db&#10;add table shipping with prices &#10;for dhl in germany / zone 1">
-      <created>1680863443063</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1680863443064</updated>
+      <workItem from="1683356030657" duration="23000" />
     </task>
     <task id="LOCAL-00054" summary="2023 04 09&#10;update landingpage h2 db">
       <created>1681020713104</created>
@@ -589,7 +583,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683355751257</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="edit Belegarten.sql">
+      <created>1683356043459</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1683356043459</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,7 +612,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="edit user&#10;demodb mawidb and shopdb &#10;&#10;user h2dbcluster add admin rights" />
     <MESSAGE value="add file hosts" />
     <MESSAGE value="2023 04 18 update landingapge h2 db" />
     <MESSAGE value="2023 04 19 update landingapge h2 db" />
@@ -636,7 +636,8 @@
     <MESSAGE value="edit sql file&#10;&#10;SHIPPING.sql" />
     <MESSAGE value="edit USERAGENT.sql&#10;&#10;column id to int &#10;for import to mysql database" />
     <MESSAGE value="edit USERDETAIL.sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit USERDETAIL.sql" />
+    <MESSAGE value="edit Belegarten.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit Belegarten.sql" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
