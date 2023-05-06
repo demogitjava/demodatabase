@@ -4,12 +4,12 @@ create table SHIPPING
         primary key,
     DESIGNATION      MEDIUMTEXT,
     DESIGNATIONSIZE  MEDIUMTEXT,
-    COUNTRY          VARCHAR(255),
+    COUNTRY          VARCHAR(250),
     SHIPPINGPROVIDER MEDIUMTEXT,
     YEAR             INT,
-    "Price"          DOUBLE,
-    CURRENCY         VARCHAR(255),
-    STOREORONLINE    VARCHAR(255),
+    Price            DOUBLE,
+    CURRENCY         VARCHAR(250),
+    STOREORONLINE    VARCHAR(250),
     DHLZONE          INTEGER
 );
 
