@@ -249,13 +249,7 @@
       <workItem from="1683356770068" duration="31000" />
       <workItem from="1683438522608" duration="130000" />
       <workItem from="1683523792045" duration="116000" />
-    </task>
-    <task id="LOCAL-00057" summary="2023 04 09&#10;update landingpage h2 db">
-      <created>1681025029178</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1681025029178</updated>
+      <workItem from="1683553741411" duration="72000" />
     </task>
     <task id="LOCAL-00058" summary="2023 04 09&#10;update landingpage h2 db">
       <created>1681028395559</created>
@@ -593,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683523890357</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="2023 05 08 update landingpage h2 db">
+      <created>1683553800642</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1683553800643</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
