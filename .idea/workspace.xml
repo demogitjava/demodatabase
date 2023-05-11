@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 05 10 update landingpage h2 db" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 05 11 update landingpage h2 db">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_landingpage/networkconf/networks" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/networkconf/networks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_landingpage/networkconf/resolv.conf" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/networkconf/resolv.conf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -251,13 +255,8 @@
       <workItem from="1683523792045" duration="116000" />
       <workItem from="1683553741411" duration="72000" />
       <workItem from="1683696411384" duration="47000" />
-    </task>
-    <task id="LOCAL-00059" summary="2023 04 09&#10;update landingpage h2 db">
-      <created>1681034023182</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1681034023182</updated>
+      <workItem from="1683785834496" duration="65000" />
+      <workItem from="1683801682449" duration="79000" />
     </task>
     <task id="LOCAL-00060" summary="2023 04 09&#10;update landingpage h2 db">
       <created>1681035943180</created>
@@ -595,7 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683696446673</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="2023 05 11 update landingpage h2 db">
+      <created>1683785883913</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1683785883913</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,7 +623,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="edit snapshot landingpage" />
     <MESSAGE value="delete old landingape snapshot" />
     <MESSAGE value="add landinpage shnapshot form &#10;2023 02 09" />
     <MESSAGE value="add landingpage snapshot" />
@@ -642,7 +647,8 @@
     <MESSAGE value="2023 05 07 update landingpage h2 db" />
     <MESSAGE value="2023 05 08 update landingpage h2 db" />
     <MESSAGE value="2023 05 10 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 05 10 update landingpage h2 db" />
+    <MESSAGE value="2023 05 11 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 05 11 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
