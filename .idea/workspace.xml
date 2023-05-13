@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 05 12 update landingpage h2 db" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 05 13 update landingpage h2 db" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,13 +254,7 @@
       <workItem from="1683785834496" duration="65000" />
       <workItem from="1683801682449" duration="257000" />
       <workItem from="1683877610477" duration="116000" />
-    </task>
-    <task id="LOCAL-00062" summary="2023 04 14">
-      <created>1681459535854</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1681459535855</updated>
+      <workItem from="1683991782822" duration="54000" />
     </task>
     <task id="LOCAL-00063" summary="add network config for container path /etc">
       <created>1681463864744</created>
@@ -598,7 +592,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683877700070</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="2023 05 13 update landingpage h2 db">
+      <created>1683991832343</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1683991832343</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +621,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add landingpage snapshot" />
     <MESSAGE value="snapshopt landingpage" />
     <MESSAGE value="2023 04 21 update landingpage h2 db" />
     <MESSAGE value="2023 04 22 update landingpage h2 db" />
@@ -645,7 +645,8 @@
     <MESSAGE value="2023 05 11 update landingpage h2 db" />
     <MESSAGE value="2023 05 11 update landingpage h2 db&#10;&#10;edit resolv.conf and networks config &#10;to Umbrella/Cisco public dns" />
     <MESSAGE value="2023 05 12 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 05 12 update landingpage h2 db" />
+    <MESSAGE value="2023 05 13 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 05 13 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
