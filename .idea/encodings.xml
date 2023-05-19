@@ -2,9 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$APPLICATION_CONFIG_DIR$/docker/debianbind9/etc/bind/named.conf.default-zones" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/DockerfilesshserverJetbrainsGateway" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/bind9/254.255.160.217.db" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/bind9/named.conf.options" charset="ISO-8859-1" />
-    <file url="file://$PROJECT_DIR$/nginx/default.conf" charset="ISO-8859-1" />
     <file url="file://$PROJECT_DIR$/nginx/default.conf" charset="ISO-8859-1" />
   </component>
 </project>
