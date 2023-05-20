@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 05 19 update landingpage h2 db&#10;&#10;add dockerfile with a simple ssh server to connect with Jetbrains Remote Gateway for container debug" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -266,6 +266,7 @@
       <workItem from="1684319324808" duration="75000" />
       <workItem from="1684415148674" duration="205000" />
       <workItem from="1684493538731" duration="83000" />
+      <workItem from="1684568713135" duration="121000" />
     </task>
     <task id="LOCAL-00067" summary="2023 04 16 update landingpage h2 db">
       <created>1681622983134</created>
@@ -610,7 +611,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684415336097</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,7 +633,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 04 24 update landingpage h2 db" />
     <MESSAGE value="2023 04 27 update landingpage h2 db" />
     <MESSAGE value="2023 05 01 update landingpage h2 db" />
     <MESSAGE value="2023 05 02 update landingpage h2 db" />
@@ -657,7 +657,8 @@
     <MESSAGE value="add zip folder to demodatabase&#10;&#10;load the master.zip file from the &#10;shell methods to the spring boot project&#10;by path -&gt; /root" />
     <MESSAGE value="2023 05 18 update landingpage h2 db&#10;&#10;add dockerfile with a simple ssh server to connect with Jetbrains Remote Gateway for container debug" />
     <MESSAGE value="2023 05 19 update landingpage h2 db&#10;&#10;add dockerfile with a simple ssh server to connect with Jetbrains Remote Gateway for container debug" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 05 19 update landingpage h2 db&#10;&#10;add dockerfile with a simple ssh server to connect with Jetbrains Remote Gateway for container debug" />
+    <MESSAGE value="2023 05 20 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 05 20 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
