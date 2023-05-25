@@ -269,6 +269,7 @@
       <workItem from="1684568713135" duration="121000" />
       <workItem from="1684569296543" duration="88000" />
       <workItem from="1684735487248" duration="163000" />
+      <workItem from="1684907249939" duration="94000" />
     </task>
     <task id="LOCAL-00067" summary="2023 04 16 update landingpage h2 db">
       <created>1681622983134</created>
@@ -613,7 +614,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684415336097</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,7 +636,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 05 02 update landingpage h2 db" />
     <MESSAGE value="2023 05 03 update landingpage h2 db" />
     <MESSAGE value="2023 05 04 update landingpage h2 db" />
     <MESSAGE value="2023 05 05 update landingpage h2 db" />
@@ -660,7 +660,8 @@
     <MESSAGE value="2023 05 20 update landingpage h2 db" />
     <MESSAGE value="add derby db lib" />
     <MESSAGE value="2023 05 22 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 05 22 update landingpage h2 db" />
+    <MESSAGE value="2023 05 24 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 05 24 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
