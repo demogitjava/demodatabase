@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/root/IdeaProjects/landingpage",
+    "last_opened_file_path": "/root/IdeaProjects/LanServer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -276,6 +278,8 @@
       <workItem from="1685268466284" duration="265000" />
       <workItem from="1685268767937" duration="28000" />
       <workItem from="1685269145763" duration="244000" />
+      <workItem from="1685275237161" duration="169000" />
+      <workItem from="1685277013633" duration="317000" />
     </task>
     <task id="LOCAL-00067" summary="2023 04 16 update landingpage h2 db">
       <created>1681622983134</created>
@@ -620,7 +624,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684415336097</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -642,8 +646,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="edit USERAGENT.sql&#10;&#10;column id to int &#10;for import to mysql database" />
-    <MESSAGE value="edit USERDETAIL.sql" />
     <MESSAGE value="edit Belegarten.sql" />
     <MESSAGE value="edit USERS.sql" />
     <MESSAGE value="2023 05 07 update landingpage h2 db" />
@@ -667,7 +669,9 @@
     <MESSAGE value="2023 05 27 update landingpage h2 db&#10;&#10;edit version of derbydb to 10.15.2.0" />
     <MESSAGE value="edit db-derby-10.15.2.0-bin.zip&#10;&#10;create database&#10;demodb&#10;mawi &#10;shopdb &#10;&#10;into zip folder" />
     <MESSAGE value="add application.properties&#10;for the databases &#10;demodb&#10;h2&#10;and mysql" />
-    <option name="LAST_COMMIT_MESSAGE" value="add application.properties&#10;for the databases &#10;demodb&#10;h2&#10;and mysql" />
+    <MESSAGE value="add derby db as zip &#10;with database&#10;&#10;demodb&#10;mawi&#10;and shopdb" />
+    <MESSAGE value="2023 05 28 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 05 28 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
