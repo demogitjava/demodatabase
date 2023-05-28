@@ -272,6 +272,7 @@
       <workItem from="1684907249939" duration="94000" />
       <workItem from="1684998277006" duration="53000" />
       <workItem from="1685087756533" duration="90000" />
+      <workItem from="1685179342693" duration="142000" />
     </task>
     <task id="LOCAL-00067" summary="2023 04 16 update landingpage h2 db">
       <created>1681622983134</created>
@@ -616,7 +617,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684415336097</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,7 +639,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 05 05 update landingpage h2 db" />
     <MESSAGE value="2023 05 06 update landingpage h2 db" />
     <MESSAGE value="edit sql file&#10;&#10;SHIPPING.sql" />
     <MESSAGE value="edit USERAGENT.sql&#10;&#10;column id to int &#10;for import to mysql database" />
@@ -663,7 +663,8 @@
     <MESSAGE value="2023 05 24 update landingpage h2 db" />
     <MESSAGE value="2023 05 25 update landingpage h2 db" />
     <MESSAGE value="2023 05 26 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 05 26 update landingpage h2 db" />
+    <MESSAGE value="2023 05 27 update landingpage h2 db&#10;&#10;edit version of derbydb to 10.15.2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 05 27 update landingpage h2 db&#10;&#10;edit version of derbydb to 10.15.2.0" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
