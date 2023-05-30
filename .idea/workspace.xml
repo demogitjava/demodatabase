@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -282,6 +280,7 @@
       <workItem from="1685277013633" duration="317000" />
       <workItem from="1685277504917" duration="680000" />
       <workItem from="1685338957491" duration="65000" />
+      <workItem from="1685339141034" duration="63000" />
     </task>
     <task id="LOCAL-00067" summary="2023 04 16 update landingpage h2 db">
       <created>1681622983134</created>
@@ -626,7 +625,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684415336097</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -648,7 +647,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="edit USERS.sql" />
     <MESSAGE value="2023 05 07 update landingpage h2 db" />
     <MESSAGE value="2023 05 08 update landingpage h2 db" />
     <MESSAGE value="2023 05 10 update landingpage h2 db" />
@@ -673,7 +671,8 @@
     <MESSAGE value="add derby db as zip &#10;with database&#10;&#10;demodb&#10;mawi&#10;and shopdb" />
     <MESSAGE value="2023 05 28 update landingpage h2 db" />
     <MESSAGE value="add h2 database for lanserver module" />
-    <option name="LAST_COMMIT_MESSAGE" value="add h2 database for lanserver module" />
+    <MESSAGE value="2023 05 29 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 05 29 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
