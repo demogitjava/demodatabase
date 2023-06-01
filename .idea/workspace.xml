@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -286,13 +284,7 @@
       <workItem from="1685428050758" duration="89000" />
       <workItem from="1685600301630" duration="57000" />
       <workItem from="1685611825103" duration="100000" />
-    </task>
-    <task id="LOCAL-00067" summary="2023 04 16 update landingpage h2 db">
-      <created>1681622983134</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1681622983134</updated>
+      <workItem from="1685612112009" duration="385000" />
     </task>
     <task id="LOCAL-00068" summary="2023 04 16 update landingpage h2 db">
       <created>1681663276761</created>
@@ -630,7 +622,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684415336097</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="add files from h2 database as csv &#10;&#10;for import demodata as csv to &#10;derbydb or mysql by wget command to the container &#10;like docker or something">
+      <created>1685612472087</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1685612472088</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -652,7 +651,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 05 10 update landingpage h2 db" />
     <MESSAGE value="2023 05 11 update landingpage h2 db" />
     <MESSAGE value="2023 05 11 update landingpage h2 db&#10;&#10;edit resolv.conf and networks config &#10;to Umbrella/Cisco public dns" />
     <MESSAGE value="2023 05 12 update landingpage h2 db" />
@@ -677,7 +675,8 @@
     <MESSAGE value="2023 05 29 update landingpage h2 db" />
     <MESSAGE value="2023 05 30 update landingpage h2 db" />
     <MESSAGE value="2023 06 01 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 06 01 update landingpage h2 db" />
+    <MESSAGE value="add files from h2 database as csv &#10;&#10;for import demodata as csv to &#10;derbydb or mysql by wget command to the container &#10;like docker or something" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files from h2 database as csv &#10;&#10;for import demodata as csv to &#10;derbydb or mysql by wget command to the container &#10;like docker or something" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
