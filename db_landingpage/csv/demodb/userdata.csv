@@ -1,0 +1,4 @@
+"ID","EMAIL","PASSWORD","ROLE","USERNAME"
+"1","jgeist@gmx.net","admin","admin","admin"
+"2","demouser@gmx.net","demouser","user","demouser"
+"3","servergui@gmx.net","serverpanel","serverpanel","serverpanel"

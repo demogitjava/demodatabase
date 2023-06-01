@@ -1,0 +1,6 @@
+"ID","EMAIL","PASSWORD","ROLE","USERNAME","ENABLED"
+"1","jgeist@gmx.net","$2a$10$l3w7zjyFKsBFxKOjBQF4COx0BoCgaZnYKRZK080rRDLQYY3AxLgDC","ROLE_USER","admin","1"
+"2","jgeistadmin@gmx.net","$2a$10$l3w7zjyFKsBFxKOjBQF4COx0BoCgaZnYKRZK080rRDLQYY3AxLgDC","ROLE_ADMIN","1","1"
+"3","jgeistmanager@gmx.net","$2a$10$l3w7zjyFKsBFxKOjBQF4COx0BoCgaZnYKRZK080rRDLQYY3AxLgDC","ROLE_MANAGER","1","1"
+"4","user@gmx.net","$2a$10$l3w7zjyFKsBFxKOjBQF4COx0BoCgaZnYKRZK080rRDLQYY3AxLgDC","ROLE_USER","1","1"
+"5","jgeist78@gmx.net","$2a$10$l3w7zjyFKsBFxKOjBQF4COx0BoCgaZnYKRZK080rRDLQYY3AxLgDC","ROLE_ADMIN","h2dbcluster","1"
