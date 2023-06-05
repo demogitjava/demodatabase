@@ -288,13 +288,7 @@
       <workItem from="1685613921315" duration="128000" />
       <workItem from="1685782440900" duration="74000" />
       <workItem from="1685890193451" duration="131000" />
-    </task>
-    <task id="LOCAL-00071" summary="2023 04 18 update landingpage h2 db">
-      <created>1681795668451</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1681795668452</updated>
+      <workItem from="1685890383396" duration="53000" />
     </task>
     <task id="LOCAL-00072" summary="edit file networks to ip 192.168.178.6">
       <created>1681802222632</created>
@@ -632,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685890306833</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="2023 06 04 update landingpage h2 db">
+      <created>1685890422237</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1685890422238</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,7 +655,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 05 13 update landingpage h2 db" />
     <MESSAGE value="2023 05 17 update landingpage h2 db" />
     <MESSAGE value="." />
     <MESSAGE value="add zip folder to demodatabase&#10;&#10;load the master.zip file from the &#10;shell methods to the spring boot project&#10;by path -&gt; /root" />
@@ -679,7 +679,8 @@
     <MESSAGE value="edit db-derby-10.15.2.0-bin.zip&#10;&#10;import the csv data from the path /csv/demodb" />
     <MESSAGE value="2023 06 03 update landingpage h2 db" />
     <MESSAGE value="add apache derby with version 10.14.2.0 for java jdk 1.8&#10;&#10;by running the remote docker container with command yum install java &#10;jdk 1.8 is set this version support this jdk" />
-    <option name="LAST_COMMIT_MESSAGE" value="add apache derby with version 10.14.2.0 for java jdk 1.8&#10;&#10;by running the remote docker container with command yum install java &#10;jdk 1.8 is set this version support this jdk" />
+    <MESSAGE value="2023 06 04 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 06 04 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
