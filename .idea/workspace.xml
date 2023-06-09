@@ -41,33 +41,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/root/IdeaProjects/demodatabase&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TODO_SCOPE": "All Places",
+    "WebServerToolWindowFactoryState": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/root/IdeaProjects/landingpage",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;h2&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "h2"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -290,13 +290,7 @@
       <workItem from="1685890193451" duration="131000" />
       <workItem from="1685890383396" duration="53000" />
       <workItem from="1685936659064" duration="61000" />
-    </task>
-    <task id="LOCAL-00073" summary="edit user&#10;demodb mawidb and shopdb &#10;&#10;user h2dbcluster add admin rights">
-      <created>1681802926350</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1681802926350</updated>
+      <workItem from="1686041131783" duration="461000" />
     </task>
     <task id="LOCAL-00074" summary="add file hosts">
       <created>1681804013326</created>
@@ -634,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685936707723</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="2023 06 06 update landingpage h2 db">
+      <created>1686041208707</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1686041208708</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,7 +657,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="." />
     <MESSAGE value="add zip folder to demodatabase&#10;&#10;load the master.zip file from the &#10;shell methods to the spring boot project&#10;by path -&gt; /root" />
     <MESSAGE value="2023 05 18 update landingpage h2 db&#10;&#10;add dockerfile with a simple ssh server to connect with Jetbrains Remote Gateway for container debug" />
     <MESSAGE value="2023 05 19 update landingpage h2 db&#10;&#10;add dockerfile with a simple ssh server to connect with Jetbrains Remote Gateway for container debug" />
@@ -681,7 +681,8 @@
     <MESSAGE value="add apache derby with version 10.14.2.0 for java jdk 1.8&#10;&#10;by running the remote docker container with command yum install java &#10;jdk 1.8 is set this version support this jdk" />
     <MESSAGE value="2023 06 04 update landingpage h2 db" />
     <MESSAGE value="2023 06 05 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 06 05 update landingpage h2 db" />
+    <MESSAGE value="2023 06 06 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 06 06 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
