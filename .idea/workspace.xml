@@ -53,7 +53,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/root/IdeaProjects/landingpage",
+    "last_opened_file_path": "/root/IdeaProjects/demodatabase",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -291,13 +291,7 @@
       <workItem from="1685890383396" duration="53000" />
       <workItem from="1685936659064" duration="61000" />
       <workItem from="1686041131783" duration="461000" />
-    </task>
-    <task id="LOCAL-00074" summary="add file hosts">
-      <created>1681804013326</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1681804013326</updated>
+      <workItem from="1686294265127" duration="91000" />
     </task>
     <task id="LOCAL-00075" summary="2023 04 18 update landingapge h2 db">
       <created>1681804735011</created>
@@ -635,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686041208708</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="2023 06 09 update landingpage h2 db">
+      <created>1686294334186</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1686294334187</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,7 +658,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add zip folder to demodatabase&#10;&#10;load the master.zip file from the &#10;shell methods to the spring boot project&#10;by path -&gt; /root" />
     <MESSAGE value="2023 05 18 update landingpage h2 db&#10;&#10;add dockerfile with a simple ssh server to connect with Jetbrains Remote Gateway for container debug" />
     <MESSAGE value="2023 05 19 update landingpage h2 db&#10;&#10;add dockerfile with a simple ssh server to connect with Jetbrains Remote Gateway for container debug" />
     <MESSAGE value="2023 05 20 update landingpage h2 db" />
@@ -682,7 +682,8 @@
     <MESSAGE value="2023 06 04 update landingpage h2 db" />
     <MESSAGE value="2023 06 05 update landingpage h2 db" />
     <MESSAGE value="2023 06 06 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 06 06 update landingpage h2 db" />
+    <MESSAGE value="2023 06 09 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 06 09 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
