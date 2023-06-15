@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/root/IdeaProjects/demodatabase",
+    "last_opened_file_path": "/root/IdeaProjects/landingpage",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -297,13 +299,8 @@
       <workItem from="1686303614180" duration="582000" />
       <workItem from="1686387929606" duration="18000" />
       <workItem from="1686648668026" duration="781000" />
-    </task>
-    <task id="LOCAL-00078" summary="2023 04 20 update landingapge h2 db">
-      <created>1681961252602</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1681961252603</updated>
+      <workItem from="1686649600475" duration="131000" />
+      <workItem from="1686649746701" duration="44000" />
     </task>
     <task id="LOCAL-00079" summary="edit snapshot landingpage">
       <created>1681965421546</created>
@@ -641,7 +638,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686648751444</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="2023 06 13 update landingpage h2 db">
+      <created>1686649714869</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1686649714870</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

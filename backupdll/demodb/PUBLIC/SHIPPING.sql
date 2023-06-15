@@ -2,10 +2,10 @@ create table SHIPPING
 (
     ID               INTEGER not null
         primary key,
-    DESIGNATION      MEDIUMTEXT,
-    DESIGNATIONSIZE  MEDIUMTEXT,
+    DESIGNATION      LONG VARCHAR,
+    DESIGNATIONSIZE  LONG VARCHAR,
     COUNTRY          VARCHAR(250),
-    SHIPPINGPROVIDER MEDIUMTEXT,
+    SHIPPINGPROVIDER LONG VARCHAR,
     YEAR             INT,
     Price            DOUBLE,
     CURRENCY         VARCHAR(250),
