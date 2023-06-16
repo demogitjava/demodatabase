@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +53,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/root/IdeaProjects/landingpage",
+    "last_opened_file_path": "/root/IdeaProjects/demodatabase",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -301,13 +299,7 @@
       <workItem from="1686648668026" duration="781000" />
       <workItem from="1686649600475" duration="131000" />
       <workItem from="1686649746701" duration="44000" />
-    </task>
-    <task id="LOCAL-00079" summary="edit snapshot landingpage">
-      <created>1681965421546</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1681965421546</updated>
+      <workItem from="1686838390174" duration="91000" />
     </task>
     <task id="LOCAL-00080" summary="delete old landingape snapshot">
       <created>1681965633783</created>
@@ -645,7 +637,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686649714870</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="2023 06 15 update landingpage h2 db">
+      <created>1686838446059</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1686838446059</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,7 +666,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add derby db lib" />
     <MESSAGE value="2023 05 22 update landingpage h2 db" />
     <MESSAGE value="2023 05 24 update landingpage h2 db" />
     <MESSAGE value="2023 05 25 update landingpage h2 db" />
@@ -692,7 +690,8 @@
     <MESSAGE value="edit backupdll &#10;&#10;edit sql files for derby db or mysql &#10;to create tables over ddl import" />
     <MESSAGE value="edit db-derby-10.15.2.0-bin.zip&#10;&#10;create tables for demodb shopdb mawi&#10;&#10;SCHEMA is app" />
     <MESSAGE value="2023 06 13 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 06 13 update landingpage h2 db" />
+    <MESSAGE value="2023 06 15 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 06 15 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
