@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -304,14 +302,7 @@
       <workItem from="1686838390174" duration="91000" />
       <workItem from="1686900776901" duration="88000" />
       <workItem from="1686901490787" duration="161000" />
-      <workItem from="1687009158490" duration="328000" />
-    </task>
-    <task id="LOCAL-00082" summary="add landingpage snapshot">
-      <created>1681974766579</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1681974766579</updated>
+      <workItem from="1687009158490" duration="375000" />
     </task>
     <task id="LOCAL-00083" summary="snapshopt landingpage">
       <created>1681974979893</created>
@@ -649,7 +640,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686901637512</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="2023 06 17 update landingpage h2 db">
+      <created>1687009517701</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1687009517701</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -671,7 +669,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 05 25 update landingpage h2 db" />
     <MESSAGE value="2023 05 26 update landingpage h2 db" />
     <MESSAGE value="2023 05 27 update landingpage h2 db&#10;&#10;edit version of derbydb to 10.15.2.0" />
     <MESSAGE value="edit db-derby-10.15.2.0-bin.zip&#10;&#10;create database&#10;demodb&#10;mawi &#10;shopdb &#10;&#10;into zip folder" />
@@ -696,7 +693,8 @@
     <MESSAGE value="2023 06 15 update landingpage h2 db" />
     <MESSAGE value="2023 06 16 update landingpage h2 db" />
     <MESSAGE value="edit derby db to version 10.14.2&#10;for java open jdk 1.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit derby db to version 10.14.2&#10;for java open jdk 1.8" />
+    <MESSAGE value="2023 06 17 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 06 17 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
