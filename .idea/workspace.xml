@@ -305,20 +305,7 @@
       <workItem from="1687009158490" duration="375000" />
       <workItem from="1687012309391" duration="271000" />
       <workItem from="1687160026493" duration="205000" />
-    </task>
-    <task id="LOCAL-00085" summary="2023 04 22 update landingpage h2 db">
-      <created>1682137006152</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1682137006153</updated>
-    </task>
-    <task id="LOCAL-00086" summary="2023 04 23 update landingpage h2 db">
-      <created>1682228734159</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1682228734159</updated>
+      <workItem from="1687160238086" duration="251000" />
     </task>
     <task id="LOCAL-00087" summary="create ddl files from h2 db">
       <created>1682237461343</created>
@@ -649,7 +636,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687160138928</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="add derby databases to db-derby-10.14.2.0-bin.zip">
+      <created>1687160288487</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1687160288488</updated>
+    </task>
+    <task id="LOCAL-00151" summary="2023 06 19 update landingpage h2 db">
+      <created>1687160461894</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1687160461894</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -671,8 +672,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="edit db-derby-10.15.2.0-bin.zip&#10;&#10;create database&#10;demodb&#10;mawi &#10;shopdb &#10;&#10;into zip folder" />
-    <MESSAGE value="add application.properties&#10;for the databases &#10;demodb&#10;h2&#10;and mysql" />
     <MESSAGE value="add derby db as zip &#10;with database&#10;&#10;demodb&#10;mawi&#10;and shopdb" />
     <MESSAGE value="2023 05 28 update landingpage h2 db" />
     <MESSAGE value="add h2 database for lanserver module" />
@@ -696,7 +695,9 @@
     <MESSAGE value="2023 06 17 update landingpage h2 db" />
     <MESSAGE value="add derbydb for landingpage &#10;&#10;the installation path is /root on the container.&#10;&#10;The derby db started with demodata" />
     <MESSAGE value="add derby databse to db-derby-10.14.2.0-bin.zip" />
-    <option name="LAST_COMMIT_MESSAGE" value="add derby databse to db-derby-10.14.2.0-bin.zip" />
+    <MESSAGE value="add derby databases to db-derby-10.14.2.0-bin.zip" />
+    <MESSAGE value="2023 06 19 update landingpage h2 db" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 06 19 update landingpage h2 db" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
