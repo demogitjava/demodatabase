@@ -303,20 +303,8 @@
       <workItem from="1686900776901" duration="88000" />
       <workItem from="1686901490787" duration="161000" />
       <workItem from="1687009158490" duration="375000" />
-    </task>
-    <task id="LOCAL-00083" summary="snapshopt landingpage">
-      <created>1681974979893</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1681974979893</updated>
-    </task>
-    <task id="LOCAL-00084" summary="2023 04 21 update landingpage h2 db">
-      <created>1682060020123</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1682060020123</updated>
+      <workItem from="1687012309391" duration="271000" />
+      <workItem from="1687160026493" duration="205000" />
     </task>
     <task id="LOCAL-00085" summary="2023 04 22 update landingpage h2 db">
       <created>1682137006152</created>
@@ -647,7 +635,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687009517701</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="add derbydb for landingpage &#10;&#10;the installation path is /root on the container.&#10;&#10;The derby db started with demodata">
+      <created>1687012564223</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1687012564224</updated>
+    </task>
+    <task id="LOCAL-00149" summary="add derby databse to db-derby-10.14.2.0-bin.zip">
+      <created>1687160138928</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1687160138928</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -669,8 +671,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 05 26 update landingpage h2 db" />
-    <MESSAGE value="2023 05 27 update landingpage h2 db&#10;&#10;edit version of derbydb to 10.15.2.0" />
     <MESSAGE value="edit db-derby-10.15.2.0-bin.zip&#10;&#10;create database&#10;demodb&#10;mawi &#10;shopdb &#10;&#10;into zip folder" />
     <MESSAGE value="add application.properties&#10;for the databases &#10;demodb&#10;h2&#10;and mysql" />
     <MESSAGE value="add derby db as zip &#10;with database&#10;&#10;demodb&#10;mawi&#10;and shopdb" />
@@ -694,7 +694,9 @@
     <MESSAGE value="2023 06 16 update landingpage h2 db" />
     <MESSAGE value="edit derby db to version 10.14.2&#10;for java open jdk 1.8" />
     <MESSAGE value="2023 06 17 update landingpage h2 db" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 06 17 update landingpage h2 db" />
+    <MESSAGE value="add derbydb for landingpage &#10;&#10;the installation path is /root on the container.&#10;&#10;The derby db started with demodata" />
+    <MESSAGE value="add derby databse to db-derby-10.14.2.0-bin.zip" />
+    <option name="LAST_COMMIT_MESSAGE" value="add derby databse to db-derby-10.14.2.0-bin.zip" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
