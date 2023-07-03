@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 07 01 update landingapge h2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -682,7 +682,7 @@
       <option name="project" value="LOCAL" />
       <updated>1687161197648</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -704,7 +704,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add apache derby with version 10.14.2.0 for java jdk 1.8&#10;&#10;by running the remote docker container with command yum install java &#10;jdk 1.8 is set this version support this jdk" />
     <MESSAGE value="2023 06 04 update landingpage h2 db" />
     <MESSAGE value="2023 06 05 update landingpage h2 db" />
     <MESSAGE value="2023 06 06 update landingpage h2 db" />
@@ -729,7 +728,8 @@
     <MESSAGE value="edit docker compose file" />
     <MESSAGE value="2023 06 28 update landingpage h2 db" />
     <MESSAGE value="2023 06 30 update landingapge h2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 06 30 update landingapge h2" />
+    <MESSAGE value="2023 07 01 update landingapge h2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 07 01 update landingapge h2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
