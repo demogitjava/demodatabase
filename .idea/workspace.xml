@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 07 01 update landingapge h2" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 07 03 update landingapge h2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -338,13 +338,6 @@
       <workItem from="1687866923042" duration="91000" />
       <workItem from="1687934097952" duration="672000" />
       <workItem from="1688110467467" duration="228000" />
-    </task>
-    <task id="LOCAL-00088" summary="2023 04 24 update landingpage h2 db">
-      <created>1682315545175</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1682315545175</updated>
     </task>
     <task id="LOCAL-00089" summary="2023 04 27 update landingpage h2 db">
       <created>1682614626952</created>
@@ -682,7 +675,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687161197648</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="2023 07 03 update landingapge h2">
+      <created>1688364715193</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1688364715194</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -704,7 +704,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 06 04 update landingpage h2 db" />
     <MESSAGE value="2023 06 05 update landingpage h2 db" />
     <MESSAGE value="2023 06 06 update landingpage h2 db" />
     <MESSAGE value="2023 06 09 update landingpage h2 db" />
@@ -729,7 +728,8 @@
     <MESSAGE value="2023 06 28 update landingpage h2 db" />
     <MESSAGE value="2023 06 30 update landingapge h2" />
     <MESSAGE value="2023 07 01 update landingapge h2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 07 01 update landingapge h2" />
+    <MESSAGE value="2023 07 03 update landingapge h2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 07 03 update landingapge h2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
