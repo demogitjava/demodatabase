@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 07 04 update landingapge h2" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 07 06 update landingapge h2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -338,13 +340,6 @@
       <workItem from="1687866923042" duration="91000" />
       <workItem from="1687934097952" duration="672000" />
       <workItem from="1688110467467" duration="228000" />
-    </task>
-    <task id="LOCAL-00090" summary="2023 05 01 update landingpage h2 db">
-      <created>1682918385702</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1682918385702</updated>
     </task>
     <task id="LOCAL-00091" summary="2023 05 01 update landingpage h2 db">
       <created>1682918482872</created>
@@ -682,7 +677,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688458306154</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="2023 07 06 update landingapge h2">
+      <created>1688634152551</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1688634152551</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -704,7 +706,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 06 06 update landingpage h2 db" />
     <MESSAGE value="2023 06 09 update landingpage h2 db" />
     <MESSAGE value="edit backupdll &#10;&#10;edit sql files for derby db or mysql &#10;to create tables over ddl import" />
     <MESSAGE value="edit db-derby-10.15.2.0-bin.zip&#10;&#10;create tables for demodb shopdb mawi&#10;&#10;SCHEMA is app" />
@@ -729,7 +730,8 @@
     <MESSAGE value="2023 07 01 update landingapge h2" />
     <MESSAGE value="2023 07 03 update landingapge h2" />
     <MESSAGE value="2023 07 04 update landingapge h2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 07 04 update landingapge h2" />
+    <MESSAGE value="2023 07 06 update landingapge h2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 07 06 update landingapge h2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
