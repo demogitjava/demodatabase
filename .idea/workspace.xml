@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 07 07 update landingapge h2" />
+    <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="2023 07 11 update landingapge h2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_landingpage/demodb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/demodb.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_landingpage/mawi.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/mawi.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_landingpage/shopdb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db_landingpage/shopdb.mv.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -338,13 +343,7 @@
       <workItem from="1687866923042" duration="91000" />
       <workItem from="1687934097952" duration="672000" />
       <workItem from="1688110467467" duration="228000" />
-    </task>
-    <task id="LOCAL-00092" summary="2023 05 01 update landingpage h2 db">
-      <created>1682918643333</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1682918643334</updated>
+      <workItem from="1689351211993" duration="132000" />
     </task>
     <task id="LOCAL-00093" summary="2023 05 02 update landingpage h2 db">
       <created>1683015536239</created>
@@ -682,7 +681,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688720053927</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="2023 07 11 update landingapge h2">
+      <created>1689033940413</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1689033940414</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -704,7 +710,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="edit backupdll &#10;&#10;edit sql files for derby db or mysql &#10;to create tables over ddl import" />
     <MESSAGE value="edit db-derby-10.15.2.0-bin.zip&#10;&#10;create tables for demodb shopdb mawi&#10;&#10;SCHEMA is app" />
     <MESSAGE value="2023 06 13 update landingpage h2 db" />
     <MESSAGE value="2023 06 15 update landingpage h2 db" />
@@ -729,7 +734,8 @@
     <MESSAGE value="2023 07 04 update landingapge h2" />
     <MESSAGE value="2023 07 06 update landingapge h2" />
     <MESSAGE value="2023 07 07 update landingapge h2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 07 07 update landingapge h2" />
+    <MESSAGE value="2023 07 11 update landingapge h2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 07 11 update landingapge h2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
