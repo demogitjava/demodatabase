@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a539f1e2-1449-48fa-954d-d02005454050" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -342,7 +342,7 @@
       <workItem from="1688110467467" duration="228000" />
       <workItem from="1689351211993" duration="132000" />
       <workItem from="1689351355668" duration="69000" />
-      <workItem from="1689351437645" duration="630000" />
+      <workItem from="1689351437645" duration="980000" />
     </task>
     <task id="LOCAL-00093" summary="2023 05 02 update landingpage h2 db">
       <created>1683015536239</created>
@@ -687,7 +687,7 @@
       <option name="project" value="LOCAL" />
       <updated>1689033940414</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -709,7 +709,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="2023 06 13 update landingpage h2 db" />
     <MESSAGE value="2023 06 15 update landingpage h2 db" />
     <MESSAGE value="2023 06 16 update landingpage h2 db" />
     <MESSAGE value="edit derby db to version 10.14.2&#10;for java open jdk 1.8" />
@@ -734,7 +733,8 @@
     <MESSAGE value="2023 07 07 update landingapge h2" />
     <MESSAGE value="2023 07 11 update landingapge h2" />
     <MESSAGE value="2023 07 14 update landingapge h2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023 07 14 update landingapge h2" />
+    <MESSAGE value="2023 07 21 update landingapge h2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023 07 21 update landingapge h2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
